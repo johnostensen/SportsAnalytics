@@ -1,1 +1,2 @@
 # SportsAnalytics
+One of the most debated questions in MLB relates to the possible implementation of a salary cap, as MLB is the only major US sport that has yet to implement a hard salary cap. This topic will attempt to determine if implementing a hard salary cap in MLB will have any affect on competitive advantage for large-market teams, as there has been some speculation lately that small-market teams are left behind in free agency from star players.
