@@ -1,4 +1,4 @@
-# SportsAnalytics
+# Salary Cap, Payroll Inequality and Competitive Advantage in MLB
 Project Title: Salary Cap, Payroll Inequality and Competitive Advantage in MLB
 Summary: One of the most debated questions in MLB relates to the possible implementation of a salary cap, as MLB is the only major US sport that has yet to implement a hard salary cap. 
 Problem and Stakeholder:This project attempts to determine if implementing a hard salary cap in MLB will have any affect on competitive advantage for large-market teams, as there has been some speculation lately that small-market teams are left behind in free agency from star players. The Primary Stakeholder is MLB League Office (Commissioner’s Office & Competition Committee)
